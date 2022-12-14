@@ -1,0 +1,17 @@
+/*footer */
+footer {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  background-color: #00a8e3;
+  padding: 15px;
+  padding-right: 50px;
+  justify-items: center;
+  align-items: center;
+}
+   
+footer p {
+  padding-top: 5px;
+ color: white;
+}
+   
+/*footer end*/
